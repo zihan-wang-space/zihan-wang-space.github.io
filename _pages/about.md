@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 ======
-I am an assistant professor at the University of Texas at Arlington. My research interests are Magnetosphere-Ionosphere-Thermosphere coupling. I build advanced numerical models, ML models, and conduct data analysis to conduct research.
+I am an assistant professor at the University of Texas at Arlington. My research interests are Magnetosphere-Ionosphere-Thermosphere coupling. I build advanced numerical models and ML models and conduct data analysis to understand the physical processes in the geospace.
 
 I am seeking talented, creative, highly motivated students to join the group. Please get in touch with me if you are interested.
 
