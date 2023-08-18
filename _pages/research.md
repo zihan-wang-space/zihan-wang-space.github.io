@@ -1,12 +1,18 @@
 ---
 permalink: /research/
-title: 
+title: ""
 excerpt: "Research projects"
 author_profile: true
 ---
 
-Heading 1
+Numerical Simulation of Plasma Bubbles
 ======
 
-Heading 2
+Forecast of Global TEC Maps
+======
+
+Hemispheric Asymmetry in the Thermosphere
+======
+
+Electrodynamics and dynamics in the polar region
 ======
