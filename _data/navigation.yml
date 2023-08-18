@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Publications"
-    url: zihan-wang-space.github.io/publications/
+    url: /publications/
 
   - title: "Talks"
-    url: zihan-wang-space.github.io/talks/    
+    url: /talks/    
 
   - title: "Teaching"
-    url: zihan-wang-space.github.io/teaching/    
+    url: /teaching/    
     
   - title: "CV"
-    url: zihan-wang-space.github.io/cv/
+    url: /cv/
     
   - title: "Guide"
-    url: zihan-wang-space.github.io/markdown/
+    url: /markdown/
