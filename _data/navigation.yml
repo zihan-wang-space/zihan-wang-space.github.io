@@ -6,8 +6,8 @@ main:
   - title: "Group Members"
     url: /group/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   - title: "CV"
     url: /cv/
