@@ -30,4 +30,5 @@ Since the launch of GOLD, spatial and temporal evolution of the thermospheric co
 Improve Electrodynamics and dynamics in the polar region
 ======
 
-Improve the specification of the conductance in the polar region using new datasets (e.g., PFISR) and/or new techniques (ML). Further investigate their dynamic impact in the polar region. 
+We improve the specification of the conductance in the polar region using new datasets (e.g., PFISR) and/or new techniques (ML). Furthermore, we investigate their dynamic impact in the polar region. 
+![Alt Text](../images/swmf_geo.jpg)
