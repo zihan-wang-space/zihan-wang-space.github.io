@@ -21,7 +21,6 @@ Our TEC map reconstruction model, Video Imputation with SoftImpute, Temporal smo
 
 Furthermore, we developed advanced ML models to predict global Total Electron Content (TEC) maps. We aim to develop models that could reveal multiscale structures and include important space weather events, such as geomagnetic storms and solar flares.
 
-
 Hemispheric Asymmetry in the Thermosphere
 ======
 ![Alt Text](../images/on2.png)
