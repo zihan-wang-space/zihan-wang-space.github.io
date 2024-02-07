@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 Current students
-
 ======
 
 Tapendra Sodari (PhD student since Jan 2024)
