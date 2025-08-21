@@ -21,14 +21,21 @@ Our TEC map reconstruction model, Video Imputation with SoftImpute, Temporal smo
 
 Furthermore, we developed advanced ML models to predict global Total Electron Content (TEC) maps. We aim to develop models that could reveal multiscale structures and include important space weather events, such as geomagnetic storms and solar flares.
 
-Hemispheric Asymmetry in the Thermosphere
+This project is supported by NSF through grant 2419186.
+
+Hemispheric Asymmetry in the Thermosphere and Ionosphere
 ======
 ![Alt Text](../images/on2.png)
 
-Since the launch of GOLD, spatial and temporal evolution of the thermospheric composition and temperature can be investigated in detail. Using GOLD observations, we investigate the hemispheric asymmetry in the thermospheric composition and temperature. We are interested in its latitude, LT, and seasonal dependence. We also use GITM to investigate its generation mechanisms, such as tides, and Poynting Flux. 
+Since the launch of GOLD, spatial and temporal evolution of the thermospheric composition, temperature, and nightside electron peak density can be investigated in detail. Using GOLD observations, we investigate the hemispheric asymmetry in the thermosphere and ionosphere. We are interested in their latitude, LT, and seasonal dependence. We also use GITM to investigate its generation mechanisms, such as tides and Poynting Flux. 
 
-Improve Electrodynamics and dynamics in the polar region
+This project is supported by NASA through 80NSSC25K7605.
+
+Improve Electrodynamics and dynamics in the polar region using MHD-AEPIC
 ======
+![Alt Text](../images/bbf.png)
 
-We improve the specification of the conductance in the polar region using new datasets (e.g., PFISR) and/or new techniques (ML). Furthermore, we investigate their dynamic impact in the polar region. 
-![Alt Text](../images/swmf_geo.jpg)
+We improve the specification of the bursty bulk flow (BBF) in the magnetotail and the associated plasma flows in the polar ionosphere with the advanced MHD-AEPIC model. Furthermore, we investigate their dynamic impact on the global circulation of the ionosphere. 
+
+This work is supported by NSF and NASA.
+
