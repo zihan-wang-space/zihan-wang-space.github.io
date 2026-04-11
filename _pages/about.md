@@ -19,3 +19,7 @@ Education
 * B.S. in Space Physics, Peking University, China, 2016
 * Ph.D in Space Science, The University of Michigan, 2021
 
+What’s Happening in the Group?
+======
+* Mar. 2026: Congratulations to Tapendra Sodari as a winner of the 2025 NASA Heliophysics FINESST award. The proposal title is “Morphology of Equatorial Ionization Anomaly: GOLD Observations and GITM-SAMI3 Simulations“.
+
